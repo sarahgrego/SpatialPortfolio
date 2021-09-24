@@ -9,7 +9,7 @@
 
 ---
 [3D Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/3d.jpg?raw=true"/>
 
 ---
 [Boundary Analysis](http://example.com/)
