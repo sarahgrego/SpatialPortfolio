@@ -5,7 +5,7 @@
 ### Spatial Analysis 
 
 [Hot Spot Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/resid.jpg?raw=true"/>
 
 ---
 [3D Analysis](/pdf/sample_presentation.pdf)
