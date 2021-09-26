@@ -19,18 +19,16 @@
 
 ### Data Management
 
-[Boundary Analysis](http://example.com/)
-<img src="images/b1.PNG?raw=true"/>
+[Georeferencing](http://example.com/)
+<img src="images/geo.PNG?raw=true"/>
 
 ---
 
-- [Georeferencing](http://example.com/)
-- [Geotagging](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Geotagging](http://example.com/)
+<img src="images/tag.PNG?raw=true"/>
 
 ---
+
 
 
 
