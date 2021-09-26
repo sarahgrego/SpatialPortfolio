@@ -6,6 +6,7 @@
 
 [Coastline Analysis](/pdf/sample_presentation.pdf)
 <img src="images/la1.png?raw=true"/>
+Display of Louisiana's coastline Erosion Rates
 
 ---
 [Hot Spot Analysis](/sample_page)
