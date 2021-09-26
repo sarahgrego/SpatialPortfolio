@@ -5,31 +5,31 @@
 ### Spatial Analysis 
 
 [Coastline Analysis](/pdf/sample_presentation.pdf)
-<img src="images/la3.PNG?raw=true"/>
+<img src="images/la1.PNG?raw=true"/>
 
 ---
 [Hot Spot Analysis](/sample_page)
-<img src="images/h77.PNG?raw=true"/>
+<img src="images/h2.PNG?raw=true"/>
 
 ---
 [3D Analysis](/pdf/sample_presentation.pdf)
-<img src="images/3d2.PNG?raw=true"/>
+<img src="images/3d.PNG?raw=true"/>
 
 ---
 [Boundary Analysis](http://example.com/)
-<img src="images/b1.PNG?raw=true"/>
+<img src="images/b2.PNG?raw=true"/>
 
 ---
 
 ### Data Management
 
 [Georeferencing](http://example.com/)
-<img src="images/geo.PNG?raw=true"/>
+<img src="images/geo2.PNG?raw=true"/>
 
 ---
 
 [Geotagging](http://example.com/)
-<img src="images/tag.PNG?raw=true"/>
+<img src="images/tag2.PNG?raw=true"/>
 
 ---
 
