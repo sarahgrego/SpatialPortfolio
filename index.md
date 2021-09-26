@@ -17,7 +17,7 @@
 
 ---
 [Boundary Analysis](http://example.com/)
-<img src="images/jpg.png?raw=true"/>
+<img src="images/b2.png?raw=true"/>
 
 ---
 
