@@ -5,11 +5,11 @@
 ### Spatial Analysis 
 
 [Hot Spot Analysis](/sample_page)
-<img src="images/h77.jpg?raw=true"/>
+<img src="images/h77.PNG?raw=true"/>
 
 ---
 [3D Analysis](/pdf/sample_presentation.pdf)
-<img src="images/3d2.jpg?raw=true"/>
+<img src="images/3d2.PNG?raw=true"/>
 
 ---
 [Boundary Analysis](http://example.com/)
