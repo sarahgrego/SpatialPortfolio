@@ -5,7 +5,7 @@
 ### Spatial Analysis 
 
 [Coastline Analysis](/pdf/sample_presentation.pdf)
-<img src="images/la1.jpg?raw=true"/>
+<img src="images/la1.png?raw=true"/>
 
 ---
 [Hot Spot Analysis](/sample_page)
