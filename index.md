@@ -9,7 +9,7 @@
 
 ---
 [Hot Spot Analysis](/sample_page)
-<img src="images/h2.jpg?raw=true"/>
+<img src="images/h2.png?raw=true"/>
 
 ---
 [3D Analysis](/pdf/sample_presentation.pdf)
@@ -17,19 +17,19 @@
 
 ---
 [Boundary Analysis](http://example.com/)
-<img src="images/jpg.PNG?raw=true"/>
+<img src="images/jpg.png?raw=true"/>
 
 ---
 
 ### Data Management
 
 [Georeferencing](http://example.com/)
-<img src="images/jpg.PNG?raw=true"/>
+<img src="images/geo2.png?raw=true"/>
 
 ---
 
 [Geotagging](http://example.com/)
-<img src="images/jpg.PNG?raw=true"/>
+<img src="images/tag2.png?raw=true"/>
 
 ---
 
