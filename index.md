@@ -10,9 +10,9 @@
 ---
 
 [Coastline Analysis](/pdf/sample_presentation.pdf)
-<img src="images/la2.PNG?raw=true"/>
+<img src="images/la2.png?raw=true"/>
 
-[![Louisiana Coastal Erosion](images/la4.png)](https://arcg.is/XquqG)
+[![Louisiana Coastal Erosion](images/la4.PNG)](https://arcg.is/XquqG)
 
 ### Data Management
 
