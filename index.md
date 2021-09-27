@@ -8,8 +8,12 @@
 <img src="images/h2.png?raw=true"/>
 
 ---
-[[Louisiana Coastal Erosion](images/la4.PNG)](https://arcg.is/XquqG)
+
+### Online Mapping
+
 [![Louisiana Coastal Erosion](images/la4.PNG)](https://arcg.is/XquqG)
+
+---
 
 ### Data Management
 
