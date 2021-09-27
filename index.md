@@ -4,14 +4,14 @@
 
 ### Spatial Analysis 
 
-[Hot Spot Analysis](/pdf/sGrego_GIS5253_Final_Memorandum.pdf)
+[Hot Spot Analysis](/pdf/SGrego_GIS5253_Final_Memorandum.pdf)
 <img src="images/h2.png?raw=true"/>
 
 ---
 
 [Coastline Analysis](/pdf/sample_presentation.pdf)
 <img src="images/la1.png?raw=true"/>
-Display of Louisiana's coastline Erosion Rates
+
 
 ---
 
