@@ -10,7 +10,7 @@
 ---
 
 [Coastline Analysis](/pdf/sample_presentation.pdf)
-<img src="images/la1.png?raw=true"/>
+<img src="images/la2.png?raw=true"/>
 
 
 ---
