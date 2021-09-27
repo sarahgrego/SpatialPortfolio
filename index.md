@@ -18,7 +18,7 @@
 ### Data Management
 
 
-[Geotagging](http://example.com/)
+[Geotagging](/pdf/greg0058_report.pdf)
 <img src="images/tag2.png?raw=true"/>
 
 ---
