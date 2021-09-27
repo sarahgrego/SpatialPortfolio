@@ -9,7 +9,7 @@
 Display of Louisiana's coastline Erosion Rates
 
 ---
-[Hot Spot Analysis](/pdf/Final Project Report GIS 5970.pdf)
+[Hot Spot Analysis](/pdf/sGrego_GIS5253_Final_Memorandum.pdf)
 <img src="images/h2.png?raw=true"/>
 
 ---
