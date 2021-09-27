@@ -23,8 +23,10 @@ Display of Louisiana's coastline Erosion Rates
 
 ---
 
+### Remote Sensing
 
-
+[NDVI](http://example.com/)
+<img src="images/idk.png?raw=true"/>
 
 
 ---
