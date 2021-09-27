@@ -12,11 +12,9 @@
 [Coastline Analysis](/pdf/sample_presentation.pdf)
 <img src="images/la2.png?raw=true"/>
 
-
----
+[![Louisiana Coastal Erosion](images/la4.png)](https://arcg.is/XquqG)
 
 ### Data Management
-
 
 [Geotagging](/pdf/greg0058_report.pdf)
 <img src="images/tag2.png?raw=true"/>
