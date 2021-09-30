@@ -17,7 +17,7 @@
 
 ### Data Management
 
-[Geotagging](/pdf/greg0058_report.pdf)
+[Geotagging](/pdf/Final_Project_Report_GIS_5970.pdf)
 <img src="images/tag2.png?raw=true"/>
 
 ---
