@@ -24,8 +24,8 @@
 
 ### Remote Sensing
 
-[NDVI](http://example.com/)
-<img src="images/idk.png?raw=true"/>
+[SWIR](https://sarahgrego.users.earthengine.app/view/split-panel-burned-area----ca-fire-2019)
+<img src="images/fire.PNG?raw=true"/>
 
 
 ---
