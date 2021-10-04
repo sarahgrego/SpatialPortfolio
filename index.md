@@ -25,7 +25,7 @@
 ### Remote Sensing
 
 [SWIR](https://sarahgrego.users.earthengine.app/view/split-panel-burned-area----ca-fire-2019)
-<img src="images/fire.PNG?raw=true"/>
+<img src="images/Fire.PNG?raw=true"/>
 
 
 ---
